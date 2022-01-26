@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0c583071eB44F648c434b2687d14C10a51C7670a",
+  "SCAN_LINK": "https://www.smartscan.cash/address/0x0c583071eB44F648c434b2687d14C10a51C7670a",
+  "NETWORK": {
+    "NAME": "SBCH",
+    "SYMBOL": "BCH",
+    "ID": 10000
+  },
+  "NFT_NAME": "Annlogy X FRN: 8-bit Zodiac",
+  "SYMBOL": "FRN8BZ",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
